@@ -1,0 +1,23 @@
+.bg {
+  background-color: rgb(27, 27, 90) !important;
+}
+.h-color {
+  color: rgb(27, 27, 90) !important;
+}
+
+nav a {
+  color: white !important;
+}
+
+nav a:hover {
+  text-decoration: none !important;
+  color: tomato !important;
+}
+
+.dropdown-menu a {
+  color: black !important;
+}
+
+.dropdown-item a:hover {
+  text-decoration: none !important;
+}

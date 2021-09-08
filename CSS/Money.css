@@ -1,0 +1,30 @@
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
+
+.bg {
+  background-image: url("background-image: url(mony-img/ia_10001.png); color: #6a9053") !important;
+  background-position: center;
+}
+
+nav a {
+  color: white !important;
+}
+
+nav a:hover {
+  text-decoration: none !important;
+  color: tomato !important;
+}
+
+.dropdown-menu a {
+  color: black !important;
+}
+
+.dropdown-item a:hover {
+  text-decoration: none !important;
+}
